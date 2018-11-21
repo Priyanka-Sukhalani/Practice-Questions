@@ -1,1 +1,1 @@
-# Sudo-Placement-GeeksForGeeks-Questions
+# Algorithm-Practice-Questions
