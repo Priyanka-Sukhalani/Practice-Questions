@@ -18,7 +18,7 @@ Constraints:
 1 ≤ arr[i] ≤ 1000
 
 Example:
-Input
+Input 
 2
 5
 4 2 1 5 3
