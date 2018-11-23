@@ -17,8 +17,8 @@ For every test case, print the required answer in a separate line.
 Here, || denotes the absolute value.
 
 # Sample Input
-1
-3
+1       
+3       
 1 1 3
 
 # Sample Output
